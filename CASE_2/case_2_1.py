@@ -18,7 +18,7 @@ total_len = len(data)
 
 lock = 5
 data = int(input("unlock !: "))
-# count = int(input("how manay time you want save : "))
+
 
 text_content = "boot running successfull"
 
